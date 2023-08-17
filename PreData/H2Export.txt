@@ -1,0 +1,7 @@
+Connections	FromNode	Country	CapaLine_GW
+1	ALVER	Imp_FR	10
+2	ZELZA	Imp_NL	10
+3	ZANDV	Imp_NL	10
+4	SGRAV	Imp_NL	10
+5	EYNAT	Imp_DE	10
+6	BLARE	Imp_FR	10

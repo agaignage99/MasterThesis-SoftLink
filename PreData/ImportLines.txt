@@ -1,0 +1,15 @@
+Interconnection	Name	Node	Pmax_GW	Type	Inom	Unom	MTTF	MTTR	Country	Emax_year_TWh
+1	NemoLink 	NEMO	1	HVDC	-	-	15000	16	United Kingdom	0.14
+2	Zandvliet - Borssele	ZANDV	1.644790088	HVAC	2499	380	15000	16	Netherlands	1.31
+3	Zandvliet - Geertruidenberg	ZANDV	1.644790088	HVAC	2499	380	15000	16	Netherlands	1.31
+4	Van Eyck - Maastricht	VANYK	1.438779965	HVAC	2186	380	15000	16	Netherlands	1.31
+5	Van Eyck - Maastricht	VANYK	1.315700434	HVAC	1999	380	15000	16	Netherlands	1.31
+6	Alegro	LIXHE380	1	HVDC	-	-	15000	16	Germany	2.57
+7	Aubange - Belval	AUBAN220	0.395150071	HVAC	1037	220	15000	16	Luxembourg	0.03
+8	Aubange - Sanem 	AUBAN220	0.395150071	HVAC	1037	220	15000	16	Luxembourg	0.03
+9	Aubange - Moulaine 1	AUBAN220	0.442019366	HVAC	1160	220	15000	16	France	0.725
+10	Aubange - Moulaine 2	AUBAN220	0.442019366	HVAC	1160	220	15000	16	France	0.725
+11	Monceau - Chooz	GOUY	0.403152146	HVAC	1058	-	15000	16	France	0.725
+12	Achene - Lonny	ACHEN	1.315700434	HVAC	1999	-	15000	16	France	0.725
+13	Avelgem - Mastaing	AVLGM	1.315700434	HVAC	1999	380	15000	16	France	0.725
+14	Avelgem - Avelin	AVLGM	1.528292351	HVAC	2322	380	15000	16	France	0.725
